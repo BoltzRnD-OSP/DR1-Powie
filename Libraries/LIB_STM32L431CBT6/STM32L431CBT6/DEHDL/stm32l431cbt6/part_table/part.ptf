@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STM32L431CBT6'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "STM32L431CBT6" (!) = "", "QFP50P900X900X160-48N", "Quad Flat Packages", "511-STM32L431CBT6", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32L431CBT6?qs=U58vgkJzipQlQfAJeHTS0w%3D%3D", "STMicroelectronics STM32L431CBT6, 32bit ARM Cortex M4 MCU, 80MHz, 256 kB Flash, 48-Pin LQFP", "https://www.st.com/resource/en/datasheet/stm32l431cb.pdf", "1.6 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LMR38020SDDAR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=9
+Version=1.1
+Released=2022-04-08 12:40:46
+Downloaded=2023-09-09 14:57:22
+3D=Y

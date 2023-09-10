@@ -1,0 +1,16 @@
+.SRP6540-150M :1 ;Bourns SRP6540 Series Shielded Wire-wound SMD Inductor with a Iron Core, 15 uH +/-20% 2.9A Idc
+INDPM7265X400N
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN SRP6540-150M
+~!Mouser Part Number (652-SRP6540-150M)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/SRP6540-150M?qs=VAD5mMsctQDbgHdK1oVsxg%3D%3D)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (SRP6540-150M)
+~!Link Datasheet (-)
+~!Height (4mm)
+~!3D_Model (SRP6540-150M)
+SRP6540-150M
+1.1!U 2.1!U 

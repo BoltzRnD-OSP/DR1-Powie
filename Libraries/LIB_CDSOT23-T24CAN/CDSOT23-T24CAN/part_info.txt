@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=CDSOT23-T24CAN
+PartCategory=TVS Diode (Bi-directional)
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=1.1
+Released=2019-05-21 06:31:41
+Downloaded=2023-09-09 14:01:58
+3D=Y

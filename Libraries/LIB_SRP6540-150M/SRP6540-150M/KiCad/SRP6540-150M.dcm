@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRP6540-150M
+D Bourns SRP6540 Series Shielded Wire-wound SMD Inductor with a Iron Core, 15 uH +/-20% 2.9A Idc
+K
+F 
+$ENDCMP
+#
+#End Doc Library

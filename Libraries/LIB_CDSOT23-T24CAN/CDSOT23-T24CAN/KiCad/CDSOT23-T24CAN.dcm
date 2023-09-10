@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CDSOT23-T24CAN
+D Bourns CDSOT23-T24CAN, Dual Bi-Directional ESD Protection Diode, 3-Pin SOT-23
+K
+F https://www.bourns.com/docs/Product-Datasheets/CDSOT23-T24CAN.pdf
+$ENDCMP
+#
+#End Doc Library

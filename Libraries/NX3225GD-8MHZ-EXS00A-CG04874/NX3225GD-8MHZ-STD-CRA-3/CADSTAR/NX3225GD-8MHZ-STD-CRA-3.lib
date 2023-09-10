@@ -1,0 +1,16 @@
+.NX3225GD-8MHZ-STD-CRA-3 :1 ;A small surface-mount type crystal unit, ideal for an engine control CPU clock; delivering the high reliability that is particularly demanded by autom
+NX3225GD8MHZSTDCRA3
+*STM Y
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN NX3225GD-8MHZ-STD-CRA-3
+~!Mouser Part Number (344-NX3225GD8MCRA3)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/NDK/NX3225GD-8MHZ-STD-CRA-3?qs=55YtniHzbhDA0fw3anYH2g%3D%3D)
+~!Manufacturer_Name (NDK)
+~!Manufacturer_Part_Number (NX3225GD-8MHZ-STD-CRA-3)
+~!Link Datasheet (-)
+~!Height (1mm)
+~!3D_Model (NX3225GD-8MHZ-STD-CRA-3)
+NX3225GD-8MHZ-STD-CRA-3
+1.1!U 2.1!U 

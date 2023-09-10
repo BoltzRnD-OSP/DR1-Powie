@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "NX3225GD-8MHZ-STD-CRA-3"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-10-09-08:28:11)
+    (mountForm default
+        (footprintRef "NX3225GD8MHZSTDCRA3")
+        (spec "System")
+    )
+)

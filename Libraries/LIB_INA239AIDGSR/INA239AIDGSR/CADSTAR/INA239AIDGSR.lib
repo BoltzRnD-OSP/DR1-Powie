@@ -1,0 +1,16 @@
+.INA239AIDGSR :1 ;Analog to Digital Converters - ADC 85-V, 16-bit, high-precision, SPI output current/voltage/power monitor with alert 10-VSSOP -40 to 125
+SOP50P490X110-10N
+*STM IC
+*NGS
+*PLB 1="CS" 2="MOSI" 3="ALERT" 4="MISO" 5="SCLK" 6="VS" 7="GND" 8="VBUS" 9="IN-" 10="IN+"
+*MXP 10
+*DFN INA239AIDGSR
+~!Mouser Part Number (595-INA239AIDGSR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/INA239AIDGSR?qs=DRkmTr78QASO8y6Kfjsnog%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (INA239AIDGSR)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/ina239.pdf?ts=1614782670721)
+~!Height (1.1mm)
+~!3D_Model (INA239AIDGSR)
+INA239AIDGSR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 10.1!U 9.1!U 8.1!U 7.1!U 6.1!U 

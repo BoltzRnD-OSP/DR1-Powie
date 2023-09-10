@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_791366"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-05-21-06:31:41)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "CDSOT23-T24CAN")
+)
+
+
+(pinAssign "ECS_791366"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-05-21-06:31:41)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "K1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "K2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "K3") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_791366")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "CDSOT23-T24CAN")
+)
+
+
+(part "CDSOT23-T24CAN"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-05-21-06:31:41)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "CDSOT23-T24CAN")
+    (pinAssignRef "ECS_791366")
+    (interface
+        (port "1" (symbPinId 1) (portName "K1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "K2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "K3") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "Bourns CDSOT23-T24CAN, Dual Bi-Directional ESD Protection Diode, 3-Pin SOT-23")
+    (property "Mouser_Part_Number" "652-CDSOT23-T24CAN")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/CDSOT23-T24CAN?qs=Z7P4xsdcg2LuAOb%2FzQ7xoQ%3D%3D")
+    (property "Manufacturer_Name" "Bourns")
+    (property "Manufacturer_Part_Number" "CDSOT23-T24CAN")
+    (property "Datasheet_Link" "https://www.bourns.com/docs/Product-Datasheets/CDSOT23-T24CAN.pdf")
+    (property "compAreaTopHeight" 1.17)
+)
+
+

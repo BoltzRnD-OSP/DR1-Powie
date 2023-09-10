@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "NX3225GD8MHZSTDCRA3"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "NX3225GD8MHZSTDCRA3")
+        (spec "default")
+    )
+)

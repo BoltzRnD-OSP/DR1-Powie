@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=INA239AIDGSR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=10
+Version=1.1
+Released=2021-06-12 07:40:15
+Downloaded=2023-09-09 11:21:52
+3D=Y

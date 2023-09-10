@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model NX3225GD-8MHZ-STD-CRA-3
+#/13137804/41184/2.50/2/4/Crystal or Oscillator
+DEF NX3225GD-8MHZ-STD-CRA-3 Y 0 30 Y Y 1 F N
+F0 "Y" 350 250 50 H V L CNN
+F1 "NX3225GD-8MHZ-STD-CRA-3" 350 150 50 H V L CNN
+F2 "NX3225GD8MHZSTDCRA3" 350 50 50 H I L CNN
+F3 "" 350 -50 50 H I L CNN
+F4 "A small surface-mount type crystal unit, ideal for an engine control CPU clock; delivering the high reliability that is particularly demanded by autom" 350 -150 50 H I L CNN "Description"
+F5 "1" 350 -250 50 H I L CNN "Height"
+F6 "344-NX3225GD8MCRA3" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/NDK/NX3225GD-8MHZ-STD-CRA-3?qs=55YtniHzbhDA0fw3anYH2g%3D%3D" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "NDK" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "NX3225GD-8MHZ-STD-CRA-3" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 400 0 100 L 50 50 0 0 P
+P 2 0 1 6 120 100 120 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 5 0 1 6 160 140 160 -140 240 -140 240 140 160 140 N
+P 2 0 1 6 280 0 300 0 N
+P 2 0 1 6 120 0 100 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library

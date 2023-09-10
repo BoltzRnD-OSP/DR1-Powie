@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CDSOT23-T24CAN"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-05-21-06:31:41)
+    (mountForm default
+        (footprintRef "SOT95P230X117-3N")
+        (spec "System")
+    )
+)

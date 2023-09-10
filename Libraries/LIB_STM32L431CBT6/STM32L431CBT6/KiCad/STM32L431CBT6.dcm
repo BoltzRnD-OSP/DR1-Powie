@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32L431CBT6
+D STMicroelectronics STM32L431CBT6, 32bit ARM Cortex M4 MCU, 80MHz, 256 kB Flash, 48-Pin LQFP
+K
+F https://www.st.com/resource/en/datasheet/stm32l431cb.pdf
+$ENDCMP
+#
+#End Doc Library

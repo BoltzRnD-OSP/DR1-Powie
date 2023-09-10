@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INA239AIDGSR
+D Analog to Digital Converters - ADC 85-V, 16-bit, high-precision, SPI output current/voltage/power monitor with alert 10-VSSOP -40 to 125
+K
+F https://www.ti.com/lit/ds/symlink/ina239.pdf?ts=1614782670721
+$ENDCMP
+#
+#End Doc Library

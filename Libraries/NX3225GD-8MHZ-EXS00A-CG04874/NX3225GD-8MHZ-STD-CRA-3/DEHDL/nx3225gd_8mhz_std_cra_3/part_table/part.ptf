@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NX3225GD_8MHZ_STD_CRA_3'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "NDK", "NX3225GD-8MHZ-STD-CRA-3" (!) = "", "NX3225GD8MHZSTDCRA3", "Other", "344-NX3225GD8MCRA3", "https://www.mouser.co.uk/ProductDetail/NDK/NX3225GD-8MHZ-STD-CRA-3?qs=55YtniHzbhDA0fw3anYH2g%3D%3D", "A small surface-mount type crystal unit, ideal for an engine control CPU clock; delivering the high reliability that is particularly demanded by autom", "", "1 mm"
+END_PART
+
+END.

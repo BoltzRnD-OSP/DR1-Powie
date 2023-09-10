@@ -1,0 +1,16 @@
+.LMR54406DBVR :1 ;Switching Voltage Regulators SIMPLE SWITCHER power converter 4.5-V to 36-V, 0.6-A, synchronous buck with 80-uA IQ
+SOT95P280X145-6N
+*STM IC
+*NGS
+*PLB 1="CB" 2="GND" 3="FB" 4="EN" 5="VIN" 6="SW"
+*MXP 6
+*DFN LMR54406DBVR
+~!Mouser Part Number (595-LMR54406DBVR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMR54406DBVR?qs=rSMjJ%252B1ewcQLNU8KVBwgHQ%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LMR54406DBVR)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/lmr54406.pdf?ts=1659688249350&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FLMR54406%252Fpart-details%252FLMR54406DBVR)
+~!Height (1.45mm)
+~!3D_Model (LMR54406DBVR)
+LMR54406DBVR
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

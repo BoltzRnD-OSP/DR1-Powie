@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LMR38020SDDAR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "LMR38020SDDAR" (!) = "", "SOIC127P600X170-9N", "Small Outline Packages", "595-LMR38020SDDAR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMR38020SDDAR?qs=Rp5uXu7WBW%252BVq2PF2vRuwg%3D%3D", "Switching Voltage Regulators SIMPLE SWITCHER power converter 4.2-V to 80-V, 2-A, synchronous buck with 40-uA IQ", "https://www.ti.com/lit/ds/symlink/lmr38020.pdf?ts=1639464026979&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FLMR38020", "1.7 mm"
+END_PART
+
+END.

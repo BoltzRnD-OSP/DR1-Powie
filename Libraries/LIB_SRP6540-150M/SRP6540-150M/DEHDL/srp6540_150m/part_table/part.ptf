@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SRP6540_150M'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "SRP6540-150M" (!) = "", "INDPM7265X400N", "Inductors Precision Moulded", "652-SRP6540-150M", "https://www.mouser.co.uk/ProductDetail/Bourns/SRP6540-150M?qs=VAD5mMsctQDbgHdK1oVsxg%3D%3D", "Bourns SRP6540 Series Shielded Wire-wound SMD Inductor with a Iron Core, 15 uH +/-20% 2.9A Idc", "", "4 mm"
+END_PART
+
+END.

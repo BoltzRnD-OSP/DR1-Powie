@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'INA239AIDGSR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "INA239AIDGSR" (!) = "", "SOP50P490X110-10N", "Small Outline Packages", "595-INA239AIDGSR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/INA239AIDGSR?qs=DRkmTr78QASO8y6Kfjsnog%3D%3D", "Analog to Digital Converters - ADC 85-V, 16-bit, high-precision, SPI output current/voltage/power monitor with alert 10-VSSOP -40 to 125", "https://www.ti.com/lit/ds/symlink/ina239.pdf?ts=1614782670721", "1.1 mm"
+END_PART
+
+END.
